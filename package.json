@@ -1,0 +1,20 @@
+{
+	"name": "createtoday-platform",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "git@github.com:byaugust/createtoday-platform.git",
+	"author": "Konstantin Voronoy <konstantinvoronoy@gmail.com>",
+	"license": "MIT",
+	"scripts": {
+		"build": "nuxt build",
+		"dev": "nuxt dev",
+		"generate": "nuxt generate",
+		"preview": "nuxt preview"
+	},
+	"devDependencies": {
+		"nuxt": "3.0.0-rc.4",
+		"autoprefixer": "latest",
+		"postcss": "latest",
+		"tailwindcss": "latest"
+	}
+}
